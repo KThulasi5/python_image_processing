@@ -1,3 +1,3 @@
 # python_image_processing
-a for apple<br>
-b for ball
+Author : K Thulasi Reddy <br>
+<h4>1st repository</h4>
