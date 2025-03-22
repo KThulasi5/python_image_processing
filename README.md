@@ -1,2 +1,2 @@
 # python_image_processing
-Author
+a for apple
